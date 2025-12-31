@@ -1,0 +1,109 @@
+[30-Dec-2025 19:58:48 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 19:58:48 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 19:58:48 Europe/Berlin] Stored hash: $2y$10$7XQ0fhXQqLW9L...
+[30-Dec-2025 19:58:48 Europe/Berlin] Login failed: Invalid password for admin@primeinternship.com
+[30-Dec-2025 19:59:25 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 19:59:25 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 19:59:25 Europe/Berlin] Stored hash: $2y$10$7XQ0fhXQqLW9L...
+[30-Dec-2025 19:59:25 Europe/Berlin] Login failed: Invalid password for admin@primeinternship.com
+[30-Dec-2025 19:59:41 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 19:59:41 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 19:59:41 Europe/Berlin] Stored hash: $2y$10$7XQ0fhXQqLW9L...
+[30-Dec-2025 19:59:41 Europe/Berlin] Login failed: Invalid password for admin@primeinternship.com
+[30-Dec-2025 20:00:27 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 20:00:27 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 20:00:27 Europe/Berlin] Stored hash: $2y$10$7XQ0fhXQqLW9L...
+[30-Dec-2025 20:00:27 Europe/Berlin] Login failed: Invalid password for admin@primeinternship.com
+[30-Dec-2025 20:05:48 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 20:05:49 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 20:05:49 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 20:05:49 Europe/Berlin] Login successful for admin@primeinternship.com (Role: admin)
+[30-Dec-2025 20:05:49 Europe/Berlin] Redirecting to admin dashboard
+[30-Dec-2025 20:25:34 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 20:25:35 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 20:25:35 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 20:25:35 Europe/Berlin] Login successful for admin@primeinternship.com (Role: admin)
+[30-Dec-2025 20:25:35 Europe/Berlin] Redirecting to admin dashboard
+[30-Dec-2025 20:33:32 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 20:33:32 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 20:33:32 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 20:33:32 Europe/Berlin] Login failed: Invalid password for admin@primeinternship.com
+[30-Dec-2025 20:33:54 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 20:33:54 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 20:33:54 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 20:33:54 Europe/Berlin] Login successful for admin@primeinternship.com (Role: admin)
+[30-Dec-2025 20:33:54 Europe/Berlin] Redirecting to admin dashboard
+[30-Dec-2025 20:34:51 Europe/Berlin] Login attempt for email: trivenish134@gmail.com
+[30-Dec-2025 20:34:51 Europe/Berlin] User found: ID=3, Role=employer, Name=Triveni shinde
+[30-Dec-2025 20:34:51 Europe/Berlin] Stored hash: $2y$10$h2HxF8kbTOcU9...
+[30-Dec-2025 20:34:52 Europe/Berlin] Login successful for trivenish134@gmail.com (Role: employer)
+[30-Dec-2025 20:34:52 Europe/Berlin] Employer session data set: Infosys
+[30-Dec-2025 20:34:52 Europe/Berlin] Redirecting to employer dashboard
+[30-Dec-2025 20:37:20 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 20:37:20 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 20:37:20 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 20:37:20 Europe/Berlin] Login failed: Invalid password for admin@primeinternship.com
+[30-Dec-2025 20:37:31 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 20:37:31 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 20:37:31 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 20:37:32 Europe/Berlin] Login successful for admin@primeinternship.com (Role: admin)
+[30-Dec-2025 20:37:32 Europe/Berlin] Redirecting to admin dashboard
+[30-Dec-2025 20:52:36 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 20:52:36 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 20:52:36 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 20:52:36 Europe/Berlin] Login successful for admin@primeinternship.com (Role: admin)
+[30-Dec-2025 20:52:36 Europe/Berlin] Redirecting to admin dashboard
+[30-Dec-2025 20:53:30 Europe/Berlin] Login attempt for email: trivenish134@gmail.com
+[30-Dec-2025 20:53:30 Europe/Berlin] User found: ID=3, Role=employer, Name=Triveni shinde
+[30-Dec-2025 20:53:30 Europe/Berlin] Stored hash: $2y$10$h2HxF8kbTOcU9...
+[30-Dec-2025 20:53:30 Europe/Berlin] Login successful for trivenish134@gmail.com (Role: employer)
+[30-Dec-2025 20:53:30 Europe/Berlin] Employer session data set: Infosys
+[30-Dec-2025 20:53:30 Europe/Berlin] Redirecting to employer dashboard
+[30-Dec-2025 20:54:14 Europe/Berlin] Login attempt for email: tri12@gmail.com
+[30-Dec-2025 20:54:14 Europe/Berlin] User found: ID=2, Role=student, Name=triveni
+[30-Dec-2025 20:54:14 Europe/Berlin] Stored hash: $2y$10$QEbYM6HwhSiDi...
+[30-Dec-2025 20:54:14 Europe/Berlin] Login successful for tri12@gmail.com (Role: student)
+[30-Dec-2025 20:54:14 Europe/Berlin] Student session data set: BTech-IT, Information Technology
+[30-Dec-2025 20:54:14 Europe/Berlin] Redirecting to student dashboard
+[30-Dec-2025 20:55:29 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 20:55:29 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 20:55:29 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 20:55:29 Europe/Berlin] Login successful for admin@primeinternship.com (Role: admin)
+[30-Dec-2025 20:55:29 Europe/Berlin] Redirecting to admin dashboard
+[30-Dec-2025 20:56:15 Europe/Berlin] Login attempt for email: trivenish134@gmail.com
+[30-Dec-2025 20:56:15 Europe/Berlin] User found: ID=3, Role=employer, Name=Triveni shinde
+[30-Dec-2025 20:56:15 Europe/Berlin] Stored hash: $2y$10$h2HxF8kbTOcU9...
+[30-Dec-2025 20:56:15 Europe/Berlin] Login successful for trivenish134@gmail.com (Role: employer)
+[30-Dec-2025 20:56:15 Europe/Berlin] Employer session data set: Infosys
+[30-Dec-2025 20:56:15 Europe/Berlin] Redirecting to employer dashboard
+[30-Dec-2025 20:58:37 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 20:58:37 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 20:58:37 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 20:58:38 Europe/Berlin] Login successful for admin@primeinternship.com (Role: admin)
+[30-Dec-2025 20:58:38 Europe/Berlin] Redirecting to admin dashboard
+[30-Dec-2025 20:59:32 Europe/Berlin] Login attempt for email: tri12@gmail.com
+[30-Dec-2025 20:59:32 Europe/Berlin] User found: ID=2, Role=student, Name=triveni
+[30-Dec-2025 20:59:32 Europe/Berlin] Stored hash: $2y$10$QEbYM6HwhSiDi...
+[30-Dec-2025 20:59:32 Europe/Berlin] Login successful for tri12@gmail.com (Role: student)
+[30-Dec-2025 20:59:32 Europe/Berlin] Student session data set: BTech-IT, Information Technology
+[30-Dec-2025 20:59:32 Europe/Berlin] Redirecting to student dashboard
+[30-Dec-2025 21:00:01 Europe/Berlin] Login attempt for email: trivenish134@gmail.com
+[30-Dec-2025 21:00:01 Europe/Berlin] User found: ID=3, Role=employer, Name=Triveni shinde
+[30-Dec-2025 21:00:01 Europe/Berlin] Stored hash: $2y$10$h2HxF8kbTOcU9...
+[30-Dec-2025 21:00:01 Europe/Berlin] Login successful for trivenish134@gmail.com (Role: employer)
+[30-Dec-2025 21:00:01 Europe/Berlin] Employer session data set: Infosys
+[30-Dec-2025 21:00:01 Europe/Berlin] Redirecting to employer dashboard
+[30-Dec-2025 21:00:53 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 21:00:53 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 21:00:53 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 21:00:53 Europe/Berlin] Login failed: Invalid password for admin@primeinternship.com
+[30-Dec-2025 21:01:06 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[30-Dec-2025 21:01:06 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[30-Dec-2025 21:01:06 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[30-Dec-2025 21:01:06 Europe/Berlin] Login successful for admin@primeinternship.com (Role: admin)
+[30-Dec-2025 21:01:06 Europe/Berlin] Redirecting to admin dashboard
+[31-Dec-2025 07:57:19 Europe/Berlin] Login attempt for email: admin@primeinternship.com
+[31-Dec-2025 07:57:20 Europe/Berlin] User found: ID=1, Role=admin, Name=Admin
+[31-Dec-2025 07:57:20 Europe/Berlin] Stored hash: $2y$10$Z4sXmRwXTkwc....
+[31-Dec-2025 07:57:20 Europe/Berlin] Login successful for admin@primeinternship.com (Role: admin)
+[31-Dec-2025 07:57:20 Europe/Berlin] Redirecting to admin dashboard
